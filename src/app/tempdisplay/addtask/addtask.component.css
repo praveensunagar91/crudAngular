@@ -1,0 +1,10 @@
+.section-1{
+  width: 50%;
+  margin: 2% 25%;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+form{
+  padding:2% 2%;
+}
