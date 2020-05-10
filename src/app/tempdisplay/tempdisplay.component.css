@@ -7,3 +7,7 @@
 h2.angdata {
   color: brown;
 }
+.d-flex.justify-content-center {
+  margin-left: 14%;
+  margin-bottom: 2%;
+}

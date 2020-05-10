@@ -1,0 +1,17 @@
+.section {
+  padding: 2%;
+  background-color: gainsboro;
+  margin: 2% 1%;
+  width: 98%;
+}
+
+h3{
+  padding-bottom: 2%;
+  color: cornflowerblue;
+}
+
+input#search-box-round {
+  margin-left: 9%;
+  margin-top: -2%;
+  margin-bottom: 2%;
+}
